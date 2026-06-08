@@ -98,6 +98,15 @@ Para isso, foram utilizados recursos do Bootstrap 5, como:
 
 ---
 
+## 🇧🇷 Integrantes do Grupo
+
+* Julia Savella Rosa
+* Fernanda Machado Nogueira
+* Vitor Delduca Fernandes
+* Matheus Henrique Neri Ferreira
+
+---
+
 ## 🇧🇷 Resultados Esperados
 
 O projeto busca atender aos seguintes objetivos:
@@ -213,6 +222,15 @@ To achieve this, Bootstrap 5 resources were used, including:
 
 ---
 
+## 🇺🇸 Group Members
+
+* Julia Savella Rosa
+* Fernanda Machado Nogueira
+* Vitor Delduca Fernandes
+* Matheus Henrique Neri Ferreira
+
+---
+
 ## 🇺🇸 Expected Results
 
 The project aims to achieve the following objectives:
@@ -225,4 +243,3 @@ The project aims to achieve the following objectives:
 * Semantic HTML structure;
 * Clear and intuitive user experience;
 * Organized and functional code.
-# grupo05
