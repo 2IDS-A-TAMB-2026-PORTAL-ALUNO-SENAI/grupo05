@@ -1,6 +1,6 @@
 # 🎓 Portal do Aluno SENAI
 
-## 🇧🇷 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste no desenvolvimento da página inicial do **Portal do Aluno SENAI**, com foco em acessibilidade, responsividade e experiência do usuário.
 
@@ -8,7 +8,7 @@ A aplicação simula um sistema de cadastro de alunos para cursos do SENAI, util
 
 ---
 
-## 🇧🇷 Objetivo
+## Objetivo
 
 Desenvolver uma página web completa utilizando:
 
@@ -22,7 +22,7 @@ O sistema deve apresentar uma interface moderna, responsiva e acessível, garant
 
 ---
 
-## 🇧🇷 Requisitos Implementados
+## Requisitos Implementados
 
 ### Cabeçalho
 
@@ -87,7 +87,7 @@ Para isso, foram utilizados recursos do Bootstrap 5, como:
 
 ---
 
-## 🇧🇷 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
@@ -98,7 +98,7 @@ Para isso, foram utilizados recursos do Bootstrap 5, como:
 
 ---
 
-## 🇧🇷 Integrantes do Grupo
+##  Integrantes do Grupo
 
 * Julia Savella Rosa
 * Fernanda Machado Nogueira
@@ -107,7 +107,7 @@ Para isso, foram utilizados recursos do Bootstrap 5, como:
 
 ---
 
-## 🇧🇷 Resultados Esperados
+##  Resultados Esperados
 
 O projeto busca atender aos seguintes objetivos:
 
@@ -124,7 +124,7 @@ O projeto busca atender aos seguintes objetivos:
 
 # 🎓 SENAI Student Portal
 
-## 🇺🇸 Project Description
+##  Project Description
 
 This project consists of developing the homepage of the **SENAI Student Portal**, focusing on accessibility, responsiveness, and user experience.
 
@@ -132,7 +132,7 @@ The application simulates a student registration system for SENAI courses, using
 
 ---
 
-## 🇺🇸 Objective
+##  Objective
 
 Develop a complete web page using:
 
@@ -146,7 +146,7 @@ The system must provide a modern, responsive, and accessible interface, ensuring
 
 ---
 
-## 🇺🇸 Implemented Requirements
+##  Implemented Requirements
 
 ### Header
 
@@ -211,7 +211,7 @@ To achieve this, Bootstrap 5 resources were used, including:
 
 ---
 
-## 🇺🇸 Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -222,7 +222,7 @@ To achieve this, Bootstrap 5 resources were used, including:
 
 ---
 
-## 🇺🇸 Group Members
+##  Group Members
 
 * Julia Savella Rosa
 * Fernanda Machado Nogueira
@@ -231,7 +231,7 @@ To achieve this, Bootstrap 5 resources were used, including:
 
 ---
 
-## 🇺🇸 Expected Results
+##  Expected Results
 
 The project aims to achieve the following objectives:
 
